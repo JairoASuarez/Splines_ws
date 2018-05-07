@@ -13,6 +13,7 @@ Implemente las curvas cúbicas naturales, de Hermite y Bezier (cúbica y de grad
 
 Tecla 'b' activa y desactiva las curvas de Cúbicas de Bezier.
 
+![1](https://github.com/joagranadosme/Splines_ws/blob/master/Images/cubic.png)
 
 Tecla 'h' activa y desactiva las curvas de Hermite.
 
