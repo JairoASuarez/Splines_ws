@@ -10,9 +10,12 @@ Implemente las curvas cúbicas naturales, de Hermite y Bezier (cúbica y de grad
 
 *Sugerencia:* Como las curvas de Hermite y cúbica de Bezier requieren varias secciones, reacomode los puntos de control para que su continuidad sea C<sup>1</sup>. Ver [acá](https://visualcomputing.github.io/Curves/#/5/5) y [propiedad 4 de acá](https://visualcomputing.github.io/Curves/#/6/4).
 
-## Profundización
 
-Represente los _boids_ del [FlockOfBoids](https://github.com/VisualComputing/framesjs/tree/processing/examples/Advanced/FlockOfBoids) mediante superficies de spline.
+Tecla 'b' activa y desactiva las curvas de Cúbicas de Bezier.
+
+
+Tecla 'h' activa y desactiva las curvas de Hermite.
+
 
 ## Integrantes
 
@@ -22,7 +25,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Jairo Suarez | [JairoASuarez](https://github.com/JairoASuarez) |
+| Jonathan Granados | [joagranadosme](https://github.com/joagranadosme) |
 
 ## Entrega
 
